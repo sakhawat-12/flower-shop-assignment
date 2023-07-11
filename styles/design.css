@@ -1,0 +1,50 @@
+body{
+ font-family: 'Fira Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+.header{
+ background-color: #E554731A;
+ width: 1920px;
+  height: 850px;
+  
+}
+.banner{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ padding: 30px 160px 0px 200px;
+}
+.banner-title{
+ 
+}
+.banner-greeting{
+ color: #272727;
+ font-size: 80px;
+ font-weight: 800;
+ display: flex;
+ width: 708px;  
+}
+.banner-description{
+ color: rgba(39, 39, 39, 0.60);
+ font-size: 18px;
+ font-weight: 400;
+ line-height: 30px;
+}
+.banner .profile-pic{
+ width: 620px;
+ height: 800px;
+
+}
+
+.btn-primary{
+ border-radius: 8px;
+  background: #E55473;
+  border: 0px;
+  color: #FFF;
+   font-family: Lato;
+   font-size: 20px;
+   font-weight: 700;
+   padding: 20px 43px;
+   
+}
